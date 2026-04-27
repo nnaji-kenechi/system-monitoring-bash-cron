@@ -1,7 +1,7 @@
 # System Monitoring with Bash & Cron
 
 A bash script that automatically collects and logs system information 
-every 3 minutes using a cron job — deployed on an AWS EC2 instance.
+every 3 minutes using a cron job deployed on an AWS EC2 instance.
 
 ## What It Logs
 - Current date and time
@@ -44,7 +44,7 @@ cat ~/kc-cron-assignment.log
 
 
 
-## Screenshots
+## These are Screenshots
 
 **Image 1 — SSH Connection to AWS EC2**
 
